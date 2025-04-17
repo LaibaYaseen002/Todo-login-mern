@@ -1,6 +1,6 @@
 import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
-import { useAuth } from "./context/AuthContext";
+import { useAuth } from "./contexts/AuthContext";
 import TodoList from "./components/TodoList";
 import AuthForm from "./components/AuthForm";
 

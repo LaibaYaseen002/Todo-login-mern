@@ -1,0 +1,13 @@
+# Node
+server/node_modules/
+
+# React
+client/node_modules/
+client/build/
+
+# Env
+**/.env
+
+# System
+.DS_Store
+Thumbs.db
